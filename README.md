@@ -35,7 +35,7 @@ npm install -g expo-cli
 ### 3. Klon projektet fra Github
 
 ```bash
-git clone 
+git clone https://github.com/saebir/GammelRUB.git
 cd F-rste-Login
 ```
 
